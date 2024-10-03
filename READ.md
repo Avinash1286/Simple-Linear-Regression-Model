@@ -1,1 +1,1 @@
-This is Simple Linear Regression ML Project
+This is Simple Linear Regression ML Project and it also contains the clean datasets of MBBS entrance result. If you want to train a rank predictor model for practice fee free to use that
